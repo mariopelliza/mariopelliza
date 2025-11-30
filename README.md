@@ -1,13 +1,16 @@
 # ¡Hola! Soy Mario Pelliza👋
-## Técnico en Innovación con Tecnologías 4.0 | QA Manual | 
 
-### Apasionado por la intersección entre la innovación tecnológica 4.0 y en transformar ideas complejas en soluciones tangibles mediante marcos de trabajo ágiles como Design Thinking.
+
+### Técnico en Innovación con tecnologías 4.0 y Quality Assurance Manual. Cuento con conocimientos fundamentales en desarrollo Full Stack que me permiten adoptar una perspectiva integral y técnica durante los procesos de testing, facilitando la identificación de defectos y una comunicación más efectiva con los equipos de desarrollo.
+
+### Apasionado por la intersección entre la innovación tecnológica 4.0 y en transformar ideas en soluciones tangibles mediante marcos de trabajo ágiles como Design Thinking y Scrum.
 ### Mi objetivo es construir y desarrollar ideas que impulsen el éxito de las organizaciones mientras aprendo y comparto mis conocimientos con la comunidad.
 
 # 🚀 Sobre mí
 * 🌍 Ubicación: Cordoba Capital , Argentina.
 * 📚 Educación: Tecnico en Innovacion con Tecnologias 4.0
-* 🛠️ Tecnologías: 
+  
+# 🛠️ Tecnologías: 
 * Postman.
 * Python.
 
@@ -17,16 +20,15 @@
 * Análisis de experiencia de usuario.
 
 
-
-
 # 🎯 Mi Especialización
+
 ## Innovación 4.0
-+ Aplicación de tecnologías disruptivas para soluciones innovadoras.
+
 * Analisis de Paginas Web - QA Manual.
 
 
 # 🛠️ Enfoque de Trabajo
-## Trabajo bajo el principio de "innovación con propósito", 
+## Trabajo bajo el principio de "Innovación con propósito", 
 
 * Exploración con Design Thinking para descubrir oportunidades.
 
@@ -38,7 +40,6 @@
 
 ## Mi formación en tecnologías 4.0 me permite entender el panorama tecnológico actual.
 
-
 * Analizar productos desde múltiples perspectivas.
 
 * Garantizar que las soluciones tecnológicas. respondan a necesidades reales.
@@ -47,10 +48,11 @@
 * Analisis Funcional QA - Mayor enfoque en producto final, para que cumpla con los requisitos y expectativas del cliente y usuario.
 
 * Full Stack.
-* Marketing - IA. 
+* Marketing - IA.
+* Operador de Ciberseguridad
 
 
-# 🎯 Mis valores como desarrollador
+# 🎯 Mis valores
 
 * Trabajo en equipo: Fomentar un ambiente de colaboración y aprendizaje mutuo.
 
