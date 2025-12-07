@@ -10,7 +10,7 @@
 * 🌍 Ubicación: Cordoba Capital , Argentina.
 * 📚 Educación: Tecnico en Innovacion con Tecnologias 4.0
   
-# 🛠️ Skill con las que estoy entrenando: 
+# 🛠️ Skills con las que estoy entrenando: 
 ## Frontend.
 * React testing Library.
 ## Backend
