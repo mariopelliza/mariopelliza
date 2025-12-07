@@ -10,11 +10,14 @@
 * 🌍 Ubicación: Cordoba Capital , Argentina.
 * 📚 Educación: Tecnico en Innovacion con Tecnologias 4.0
   
-# 🛠️ Tecnologías: 
-* Postman.
-* Python.
+# 🛠️ Skill con las que estoy entrenando: 
+## Frontend.
+* React testing Library.
+## Backend
+* Robot Framework.
+* Cypress.
 
-# 🧪 Habilidades en QA Manual
+# 🧪 Habilidades en QA Tester Manual
 * Testing funcional y de usabilidad.
 * Diseño y ejecución de casos de prueba.
 * Análisis de experiencia de usuario.
@@ -24,7 +27,7 @@
 
 ## Innovación 4.0
 
-* Analisis de Paginas Web - QA Manual.
+* Analisis de Paginas Web - QA Tester Manual.
 
 
 # 🛠️ Enfoque de Trabajo
