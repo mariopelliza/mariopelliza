@@ -45,7 +45,7 @@
 * Garantizar que las soluciones tecnológicas. respondan a necesidades reales.
 
 # 🌱 Lo que estoy aprendiendo ahora .
-* Analisis Funcional QA - Mayor enfoque en producto final, para que cumpla con los requisitos y expectativas del cliente y usuario.
+* Analisis Funcional Pre-Venta - Mayor enfoque en producto final, para que cumpla con los requisitos y expectativas del cliente y usuario.
 
 * Full Stack.
 * Marketing - IA.
