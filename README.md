@@ -12,10 +12,10 @@
   
 # 🛠️ Skills con las que estoy entrenando: 
 ## Frontend.
-* React testing Library.
+*  Playwright
 ## Backend
-* Robot Framework.
-* Cypress.
+*  Playwright.
+*  Postman
 
 # 🧪 Habilidades en QA Tester Manual
 * Testing funcional y de usabilidad.
