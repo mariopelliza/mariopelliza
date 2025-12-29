@@ -13,9 +13,9 @@
 # 🛠️ Skills con las que estoy entrenando: 
 ## Frontend.
 *  Playwright
+*  Manual
 ## Backend
 *  Playwright.
-*  Postman
 
 # 🧪 Habilidades en QA Tester Manual
 * Testing funcional y de usabilidad.
