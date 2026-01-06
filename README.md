@@ -11,24 +11,20 @@
 * 📚 Educación: Tecnico en Innovacion con Tecnologias 4.0
   
 # 🛠️ Skills con las que estoy entrenando: 
-## Frontend.
-*  Playwright
-*  Manual
+## Manual Frontend.
+*  Jira + Xray
+*  Pruebas de caja negra
+*  Creación de reportes de errores (bug reports)
+*  Ejecución de pruebas de estrés con Lighthouse
+*  Manual - Seguimiento de incidencias y tareas con Jira
 ## Backend
 *  Playwright.
-
-# 🧪 Habilidades en QA Tester Manual
-* Testing funcional y de usabilidad.
-* Diseño y ejecución de casos de prueba.
-* Análisis de experiencia de usuario.
-
 
 # 🎯 Mi Especialización
 
 ## Innovación 4.0
 
 * Analisis de Paginas Web - QA Tester Manual.
-
 
 # 🛠️ Enfoque de Trabajo
 ## Trabajo bajo el principio de "Innovación con propósito", 
