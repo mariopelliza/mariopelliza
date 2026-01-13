@@ -15,7 +15,7 @@
 *  Jira + Xray
 *  Pruebas de caja negra
 *  Creación de reportes de errores (bug reports)
-*  Ejecución de pruebas de estrés con Lighthouse
+*  Ejecución de pruebas con Lighthouse
 *  Manual - Seguimiento de incidencias y tareas con Jira
 ## Backend
 *  Playwright.
