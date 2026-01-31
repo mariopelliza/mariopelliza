@@ -1,7 +1,7 @@
 # ¡Hola! Soy Mario Pelliza👋
 
 
-### Técnico en Innovación con tecnologías 4.0 y Quality Assurance Manual. Cuento con conocimientos fundamentales en desarrollo Full Stack que me permiten adoptar una perspectiva integral y técnica durante los procesos de testing, facilitando la identificación de defectos y una comunicación más efectiva con los equipos de desarrollo.
+### Técnico en Innovación con tecnologías 4.0 y Tester Manual. Cuento con conocimientos fundamentales en desarrollo Full Stack que me permiten adoptar una perspectiva integral y técnica durante los procesos de testing, facilitando la identificación de defectos y una comunicación más efectiva con los equipos de desarrollo.
 
 ### Apasionado por la intersección entre la innovación tecnológica 4.0 y en transformar ideas en soluciones tangibles mediante marcos de trabajo ágiles como Design Thinking y Scrum.
 ### Mi objetivo es construir y desarrollar ideas que impulsen el éxito de las organizaciones mientras aprendo y comparto mis conocimientos con la comunidad.
