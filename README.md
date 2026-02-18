@@ -12,7 +12,6 @@
   
 # 🛠️ Skills con las que estoy entrenando: 
 ## Manual Frontend.
-*  Jira + Xray
 *  Pruebas de caja negra
 *  Creación de reportes de errores (bug reports)
 *  Ejecución de pruebas con Lighthouse
