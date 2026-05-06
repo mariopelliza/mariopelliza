@@ -19,8 +19,6 @@ Abierto a colaboraciones en proyectos de ciberseguridad defensiva y análisis de
 
 📍 Córdoba, Argentina
 
-¡Gracias por visitar mi perfil! 😊
-
 Propósito, análisis con perspectiva" 
 
 
