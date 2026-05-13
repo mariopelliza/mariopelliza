@@ -6,7 +6,7 @@ Apasionado por la **Defensive Security** y el **Blue Team**. Actualmente estoy p
 
 Estudiando **OSINT**, lo que me permite comprender profundamente la lógica de las aplicaciones y realizar inteligencia de fuentes abiertas. 
 
-También analizo técnicas de **Movimiento Lateral** (Lateral Movement) desde una perspectiva defensiva, con el objetivo de entender cómo actúan los atacantes para mejorar la detección y la respuesta en entornos reales.
+También se analizo técnicas de **Movimiento Lateral** (Lateral Movement) desde una perspectiva defensiva, con el objetivo de entender cómo actúan los atacantes para mejorar la detección y la respuesta en entornos reales.
 
 **Intereses principales:**
 • Defensive Security & Blue Team Operations
